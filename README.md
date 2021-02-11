@@ -6,10 +6,10 @@ This mod is entirely made up of scripts. The scripts and nothing more. Enjoy.
 
 Modification development is being restarted. Might be a while before the first thing comes out. 
 
-**Min game version - 121**
-SHould be compatible with 124.1.
-**Current mod version - 1.2.1**
-**Next mod version - 1.2.2**
+**Min game version - 121**  
+Should be compatible with 124.1.  
+**Current mod version - 1.2.1**  
+**Next mod version - 1.2.2**  
 ![Logo](sprites-override/ui/logo.png)
 
 ## Mod Screenshots
